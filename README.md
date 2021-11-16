@@ -6,10 +6,13 @@ After learning basic machine learning tactics and being exposed to sports gambli
 
 
 ## Data Acquisition and Preprocessing
+#### Iteration One
+This where the brunt of my work has taken place thus far. My first batch of data came in csv titled spreadspoke_scores and contained data on every NFL game dating back to 1966, and this was quickly supplemented by a file named nfl_elo which contained the ELO of NFL teams dating back to 1920. ELO is a common measurement used across many sports to determine the general strength of an entity in that sport. After cleaning, training and testing this data, I found little success in creating a model that was useful for monetary prediction.
 
-This where the brunt of my work has taken place thus far. After initial models showed disappointing results, I believed the solution lie in gathering more data. 
+#### Iteration Two
+After initial models showed disappointing results, I believed the solution lie in gathering more data. 
 
-
+#### Iteration Three
 
 ## Model Making
 
